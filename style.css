@@ -1,0 +1,11 @@
+.b1{
+
+    color: white;
+    background-color:rgb(24,127,222);
+    width : 400px;
+    height: 50;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+}
